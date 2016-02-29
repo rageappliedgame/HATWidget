@@ -1,0 +1,17 @@
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\HATWidget.exe
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\HATWidget.pdb
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\MainWindow.baml
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\MainWindow.g.cs
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\App.g.cs
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget_MarkupCompile.cache
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.g.resources
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.Properties.Resources.resources
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.csproj.GenerateResource.Cache
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.exe
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.pdb
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\HATWidget.exe.manifest
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\HATWidget.application
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.exe.manifest
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\obj\Release\HATWidget.application
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\Resources\adaptations.xsd
+C:\OU\RAGE\Assets\Learning\Asset\assetV1.0\HATWidget\HATWidget\bin\Release\Resources\gameplaylogs.xsd

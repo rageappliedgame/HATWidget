@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	
+	<!-- definitions of attributes -->
+	<xs:attribute name="AdaptationID" type="xs:token" />
+	<xs:attribute name="GameID" type="xs:token" />
+	<xs:attribute name="ScenarioID" type="xs:token" />
+	<xs:attribute name="PlayerID" type="xs:token" />
+	<xs:attribute name="Timestamp" type="xs:dateTime" />
+
+	<!-- definitions of simple types -->
+	<xs:simpleType name="accuracyType">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0" />
+			<xs:maxInclusive value="1" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="ratingType">
+		<xs:restriction base="xs:decimal" />
+	</xs:simpleType>
+
+	<xs:simpleType name="timeDurationType">
+		<xs:restriction base="xs:positiveInteger" />
+	</xs:simpleType>
+
+	<!-- definitions of complex types -->
+	<xs:complexType name="gameplaysDataType"> <!-- root element -->
+		<xs:sequence>
+			<xs:element name="Adaptation" type="adaptationType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="adaptationType"> <!-- level 1 element -->
+		<xs:sequence>
+			<xs:element name="Game" type="gameType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute ref="AdaptationID" use="required" />
+	</xs:complexType>
+
+	<xs:complexType name="gameType"> <!-- level 2 element -->
+		<xs:sequence>
+			<xs:element name="Gameplay" type="gameplayType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute ref="GameID" use="required" />
+	</xs:complexType>
+
+	<xs:complexType name="gameplayType"> <!-- level 4 element -->
+		<xs:all>
+			<xs:element name="RT" type="timeDurationType" minOccurs="1" />
+			<xs:element name="Accuracy" type="accuracyType"  minOccurs="1" />
+			<xs:element name="PlayerRating" type="ratingType"  minOccurs="1" />
+			<xs:element name="ScenarioRating"  type="ratingType" minOccurs="1" />
+		</xs:all>
+		<xs:attribute ref="PlayerID" use="required" />
+		<xs:attribute ref="ScenarioID" use="required" />
+		<xs:attribute ref="Timestamp" use="required" />
+	</xs:complexType>
+
+	<!-- definitions of (root) elements -->
+	<xs:element name="GameplaysData" type="gameplaysDataType"/>
+
+</xs:schema>

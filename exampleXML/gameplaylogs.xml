@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GameplaysData>
+  <Adaptation AdaptationID="Game difficulty - Player skill">
+    <Game GameID="TileZero">
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:01:20">
+        <RT>115657</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.0399778033856024</PlayerRating>
+        <ScenarioRating>0.960022196614398</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:03:46">
+        <RT>143132</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.0774275394923526</PlayerRating>
+        <ScenarioRating>0.922572460507648</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:07:56">
+        <RT>230478</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.0654315945115238</PlayerRating>
+        <ScenarioRating>1.31262363977634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:11:01">
+        <RT>182080</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.099347379854335</PlayerRating>
+        <ScenarioRating>0.887753592123164</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:14:24">
+        <RT>190660</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.129596681421642</PlayerRating>
+        <ScenarioRating>0.666430653138721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:18:13">
+        <RT>226569</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.163004003453736</PlayerRating>
+        <ScenarioRating>1.27546970218924</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:21:09">
+        <RT>173977</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.19372293746292</PlayerRating>
+        <ScenarioRating>0.854401606627478</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:24:03">
+        <RT>171349</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.230536419228564</PlayerRating>
+        <ScenarioRating>1.85555740852634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:29:05">
+        <RT>300328</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.224939663262783</PlayerRating>
+        <ScenarioRating>1.86234135515153</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:31:41">
+        <RT>153940</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.251335525725941</PlayerRating>
+        <ScenarioRating>0.633458658850832</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Color AI" Timestamp="2015-07-29T09:35:12">
+        <RT>207306</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.280105688361301</PlayerRating>
+        <ScenarioRating>1.26198228508899</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:38:27">
+        <RT>187510</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.264469303170702</PlayerRating>
+        <ScenarioRating>0.87360716669854</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:42:05">
+        <RT>161394</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.290163874623949</PlayerRating>
+        <ScenarioRating>0.841894907507173</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T09:44:41">
+        <RT>154630</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.314934468082312</PlayerRating>
+        <ScenarioRating>0.811168026308821</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:48:47">
+        <RT>244668</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.304948275832487</PlayerRating>
+        <ScenarioRating>1.28976992949099</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:52:08">
+        <RT>197847</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.325115050240133</PlayerRating>
+        <ScenarioRating>0.60354183235354</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:54:42">
+        <RT>152703</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.313502179235646</PlayerRating>
+        <ScenarioRating>1.30716452776154</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:57:54">
+        <RT>191727</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.306340032670864</PlayerRating>
+        <ScenarioRating>1.87378177510678</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T10:00:29">
+        <RT>151081</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.327196460257228</PlayerRating>
+        <ScenarioRating>0.781052467193085</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Hard AI" Timestamp="2015-07-29T10:04:47">
+        <RT>256611</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.348634920669716</PlayerRating>
+        <ScenarioRating>1.56093665145994</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Hard AI" Timestamp="2015-07-29T10:07:41">
+        <RT>173465</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.372442681029578</PlayerRating>
+        <ScenarioRating>1.83203023477126</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Color AI" Timestamp="2015-07-29T11:27:00">
+        <RT>170942</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.392201569071284</PlayerRating>
+        <ScenarioRating>1.22379541856279</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:32:03">
+        <RT>302277</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.385593636425267</PlayerRating>
+        <ScenarioRating>1.31946653002806</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Hard AI" Timestamp="2015-07-29T11:35:57">
+        <RT>232535</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.403871636808318</PlayerRating>
+        <ScenarioRating>1.52221207437721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:39:17">
+        <RT>198646</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.42120429499176</PlayerRating>
+        <ScenarioRating>1.28500159121243</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:44:59">
+        <RT>212547</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.437364295842013</PlayerRating>
+        <ScenarioRating>1.25219484249836</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:48:19">
+        <RT>197747</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.452875469077987</PlayerRating>
+        <ScenarioRating>1.22000184144256</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Hard AI" Timestamp="2015-07-29T11:50:59">
+        <RT>158654</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.468693381423695</PlayerRating>
+        <ScenarioRating>1.48201724232065</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Color AI" Timestamp="2015-07-29T11:55:48">
+        <RT>269857</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.480890642635985</PlayerRating>
+        <ScenarioRating>1.1909158448601</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Easy AI" Timestamp="2015-07-29T11:59:06">
+        <RT>184965</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.472029070665533</PlayerRating>
+        <ScenarioRating>0.802229017857767</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Very Hard AI" Timestamp="2015-07-29T12:02:23">
+        <RT>180606</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.467453703303915</PlayerRating>
+        <ScenarioRating>1.84523976312174</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Noob" ScenarioID="Medium Shape AI" Timestamp="2015-08-31T01:54:29">
+        <RT>405926</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.494144319354305</PlayerRating>
+        <ScenarioRating>1.19331122539217</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:01:20">
+        <RT>115657</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.008326574</PlayerRating>
+        <ScenarioRating>0.960022196614398</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:03:46">
+        <RT>143132</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.012659393</PlayerRating>
+        <ScenarioRating>0.922572460507648</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:07:56">
+        <RT>230478</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.017530397</PlayerRating>
+        <ScenarioRating>1.31262363977634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:11:01">
+        <RT>182080</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.032008169</PlayerRating>
+        <ScenarioRating>0.887753592123164</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:14:24">
+        <RT>190660</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.041349963</PlayerRating>
+        <ScenarioRating>0.666430653138721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:18:13">
+        <RT>226569</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.042008457</PlayerRating>
+        <ScenarioRating>1.27546970218924</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:21:09">
+        <RT>173977</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.043726698</PlayerRating>
+        <ScenarioRating>0.854401606627478</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:24:03">
+        <RT>171349</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.057772383</PlayerRating>
+        <ScenarioRating>1.85555740852634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:29:05">
+        <RT>300328</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.127672460</PlayerRating>
+        <ScenarioRating>1.86234135515153</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:31:41">
+        <RT>153940</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.136233627</PlayerRating>
+        <ScenarioRating>0.633458658850832</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Color AI" Timestamp="2015-07-29T09:35:12">
+        <RT>207306</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.139300995</PlayerRating>
+        <ScenarioRating>1.26198228508899</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:38:27">
+        <RT>187510</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.139482899</PlayerRating>
+        <ScenarioRating>0.87360716669854</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:42:05">
+        <RT>161394</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.160320537</PlayerRating>
+        <ScenarioRating>0.841894907507173</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:44:41">
+        <RT>154630</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.170738840</PlayerRating>
+        <ScenarioRating>0.811168026308821</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:48:47">
+        <RT>244668</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.179797900</PlayerRating>
+        <ScenarioRating>1.28976992949099</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:52:08">
+        <RT>197847</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.205481275</PlayerRating>
+        <ScenarioRating>0.60354183235354</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:54:42">
+        <RT>152703</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.208941543</PlayerRating>
+        <ScenarioRating>1.30716452776154</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:57:54">
+        <RT>191727</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.212471861</PlayerRating>
+        <ScenarioRating>1.87378177510678</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Easy AI" Timestamp="2015-07-29T10:00:29">
+        <RT>151081</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.215398091</PlayerRating>
+        <ScenarioRating>0.781052467193085</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Hard AI" Timestamp="2015-07-29T10:04:47">
+        <RT>256611</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.228762796</PlayerRating>
+        <ScenarioRating>1.56093665145994</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T10:07:41">
+        <RT>173465</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.231728521</PlayerRating>
+        <ScenarioRating>1.83203023477126</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Color AI" Timestamp="2015-07-29T11:27:00">
+        <RT>170942</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.279092620</PlayerRating>
+        <ScenarioRating>1.22379541856279</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:32:03">
+        <RT>302277</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.282116603</PlayerRating>
+        <ScenarioRating>1.31946653002806</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Hard AI" Timestamp="2015-07-29T11:35:57">
+        <RT>232535</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.288930454</PlayerRating>
+        <ScenarioRating>1.52221207437721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Boon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:39:17">
+        <RT>198646</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.295191669</PlayerRating>
+        <ScenarioRating>1.28500159121243</ScenarioRating>
+      </Gameplay>
+	  <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:01:20">
+        <RT>115657</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.003604922</PlayerRating>
+        <ScenarioRating>0.960022196614398</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:03:46">
+        <RT>143132</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.020297141</PlayerRating>
+        <ScenarioRating>0.922572460507648</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:07:56">
+        <RT>230478</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.045970470</PlayerRating>
+        <ScenarioRating>1.31262363977634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:11:01">
+        <RT>182080</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.064193017</PlayerRating>
+        <ScenarioRating>0.887753592123164</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:14:24">
+        <RT>190660</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.078196226</PlayerRating>
+        <ScenarioRating>0.666430653138721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:18:13">
+        <RT>226569</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.079064028</PlayerRating>
+        <ScenarioRating>1.27546970218924</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:21:09">
+        <RT>173977</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.087294476</PlayerRating>
+        <ScenarioRating>0.854401606627478</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:24:03">
+        <RT>171349</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.098590691</PlayerRating>
+        <ScenarioRating>1.85555740852634</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:29:05">
+        <RT>300328</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.101722419</PlayerRating>
+        <ScenarioRating>1.86234135515153</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:31:41">
+        <RT>153940</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.127600116</PlayerRating>
+        <ScenarioRating>0.633458658850832</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Color AI" Timestamp="2015-07-29T09:35:12">
+        <RT>207306</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.139681222</PlayerRating>
+        <ScenarioRating>1.26198228508899</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:38:27">
+        <RT>187510</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.140432325</PlayerRating>
+        <ScenarioRating>0.87360716669854</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:42:05">
+        <RT>161394</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.150167183</PlayerRating>
+        <ScenarioRating>0.841894907507173</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T09:44:41">
+        <RT>154630</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.165280845</PlayerRating>
+        <ScenarioRating>0.811168026308821</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:48:47">
+        <RT>244668</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.170905774</PlayerRating>
+        <ScenarioRating>1.28976992949099</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Easy AI" Timestamp="2015-07-29T09:52:08">
+        <RT>197847</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.171881318</PlayerRating>
+        <ScenarioRating>0.60354183235354</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T09:54:42">
+        <RT>152703</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.187193983</PlayerRating>
+        <ScenarioRating>1.30716452776154</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T09:57:54">
+        <RT>191727</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.190381378</PlayerRating>
+        <ScenarioRating>1.87378177510678</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Easy AI" Timestamp="2015-07-29T10:00:29">
+        <RT>151081</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.207171902</PlayerRating>
+        <ScenarioRating>0.781052467193085</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Hard AI" Timestamp="2015-07-29T10:04:47">
+        <RT>256611</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.222193736</PlayerRating>
+        <ScenarioRating>1.56093665145994</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Very Hard AI" Timestamp="2015-07-29T10:07:41">
+        <RT>173465</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.226037236</PlayerRating>
+        <ScenarioRating>1.83203023477126</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Color AI" Timestamp="2015-07-29T11:27:00">
+        <RT>170942</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.259550143</PlayerRating>
+        <ScenarioRating>1.22379541856279</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:32:03">
+        <RT>302277</RT>
+        <Accuracy>0</Accuracy>
+        <PlayerRating>0.294296242</PlayerRating>
+        <ScenarioRating>1.31946653002806</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Hard AI" Timestamp="2015-07-29T11:35:57">
+        <RT>232535</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.299534026</PlayerRating>
+        <ScenarioRating>1.52221207437721</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:39:17">
+        <RT>198646</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.316819919</PlayerRating>
+        <ScenarioRating>1.28500159121243</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:44:59">
+        <RT>212547</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.322163893</PlayerRating>
+        <ScenarioRating>1.25219484249836</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Shape AI" Timestamp="2015-07-29T11:48:19">
+        <RT>197747</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.334614618</PlayerRating>
+        <ScenarioRating>1.22000184144256</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Hard AI" Timestamp="2015-07-29T11:50:59">
+        <RT>158654</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.352318573</PlayerRating>
+        <ScenarioRating>1.48201724232065</ScenarioRating>
+      </Gameplay>
+      <Gameplay PlayerID="Soon" ScenarioID="Medium Color AI" Timestamp="2015-07-29T11:55:48">
+        <RT>269857</RT>
+        <Accuracy>1</Accuracy>
+        <PlayerRating>0.369738105</PlayerRating>
+        <ScenarioRating>1.1909158448601</ScenarioRating>
+      </Gameplay>
+    </Game>
+  </Adaptation>
+</GameplaysData>

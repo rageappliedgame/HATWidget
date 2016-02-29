@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<!-- definitions of attributes -->
+	<xs:attribute name="AdaptationID" type="xs:token" />
+	<xs:attribute name="GameID" type="xs:token" />
+	<xs:attribute name="ScenarioID" type="xs:token" />
+	<xs:attribute name="PlayerID" type="xs:token" />
+
+	<!-- definitions of simple types -->
+	<xs:simpleType name="ratingType">
+		<xs:restriction base="xs:decimal" />
+	</xs:simpleType>
+
+	<xs:simpleType name="playCountType">
+		<xs:restriction base="xs:nonNegativeInteger" />
+	</xs:simpleType>
+
+	<xs:simpleType name="kFactorType">
+		<xs:restriction base="xs:decimal" />
+	</xs:simpleType>
+
+	<xs:simpleType name="uncertaintyType">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0" />
+			<xs:maxInclusive value="1" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="dateTimeType">
+		<xs:restriction base="xs:dateTime" />
+	</xs:simpleType>
+
+	<xs:simpleType name="timeDurationType">
+		<xs:restriction base="xs:positiveInteger" />
+	</xs:simpleType>
+
+	<!-- definitions of complex elements -->
+	<xs:complexType name="adaptationDataType"> <!-- root element -->
+		<xs:sequence>
+			<xs:element name="Adaptation" type="adaptationType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="adaptationType"> <!-- level 1 element -->
+		<xs:sequence>
+			<xs:element name="Game" type="gameType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute ref="AdaptationID" use="required" />
+	</xs:complexType>
+
+	<xs:complexType name="gameType"> <!-- level 2 element -->
+		<xs:all>
+			<xs:element name="ScenarioData" type="scenarioDataType" minOccurs="1" />
+			<xs:element name="PlayerData" type="playerDataType" minOccurs="1" />
+		</xs:all>
+		<xs:attribute ref="GameID" use="required" />
+	</xs:complexType>
+
+	<xs:complexType name="scenarioDataType"> <!-- level 3 element -->
+		<xs:sequence>
+			<xs:element name="Scenario" type="scenarioType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="playerDataType"> <!-- level 3 element -->
+		<xs:sequence>
+			<xs:element name="Player" type="playerType" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="scenarioType"> <!-- level 4 element -->
+		<xs:all>
+			<xs:element name="Rating" type="ratingType" default="0.01" minOccurs="1" />
+			<xs:element name="PlayCount" type="playCountType" default="0" minOccurs="1" />
+			<xs:element name="KFactor" type="kFactorType" default="0.0075" minOccurs="1" />
+			<xs:element name="Uncertainty" type="uncertaintyType" default="1" minOccurs="1" />
+			<xs:element name="LastPlayed" type="dateTimeType" default="2015-01-01T01:01:01" minOccurs="1" />
+			<xs:element name="TimeLimit" type="timeDurationType" default="600000" minOccurs="1" />
+		</xs:all>
+		<xs:attribute ref="ScenarioID" use="required" />
+	</xs:complexType>
+
+	<xs:complexType name="playerType"> <!-- level 4 element -->
+		<xs:all>
+			<xs:element name="Rating" type="ratingType" default="0.01" minOccurs="1" />
+			<xs:element name="PlayCount" type="playCountType" default="0" minOccurs="1" />
+			<xs:element name="KFactor" type="kFactorType" default="0.0075" minOccurs="1" />
+			<xs:element name="Uncertainty" type="uncertaintyType" default="1" minOccurs="1" />
+			<xs:element name="LastPlayed" type="dateTimeType" default="2015-01-01T01:01:01" minOccurs="1" />
+		</xs:all>
+		<xs:attribute ref="PlayerID" use="required" />
+	</xs:complexType>
+
+	<!-- definitions of (root) elements -->
+	<xs:element name="AdaptationData" type="adaptationDataType"/>
+
+</xs:schema>
